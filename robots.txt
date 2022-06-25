@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://themichjam.github.io/sitemap.xml
